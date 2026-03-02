@@ -1,5 +1,8 @@
 - ✨ Oiee, eu sou Kemily
 - ✨ Estou cursando ensino médio tecnico de de desenvolvimento em sistemas
+- ✨ Gosto de trabalhar no javascript
+- ✨ Meus hobbys são jogar volêi, cozinhar e assistir filmes
+
 
 <div align= "center">
   
